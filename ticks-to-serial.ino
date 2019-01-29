@@ -1,10 +1,3 @@
-#define STR_MANUFACTURER L"Funky Monkeys"
-#define STR_PRODUCT L"Ticks to Serial"
-#define STR_SERIAL_NUMBER L""
-
-// incremented by 111
-#define PRODUCT_ID 0x0594
-
 extern "C" {
 #include "protocol.h"
 #include "encoders.h"
